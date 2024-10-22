@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "522675091669",
+    "project_id": "caca-c9b2tk",
+    "storage_bucket": "caca-c9b2tk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522675091669:android:06a09acad47d5e32508a5c",
+        "android_client_info": {
+          "package_name": "com.mycompany.cac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522675091669-622m6m1tdahsoe0akdt40dgkeojhf923.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cac",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "522675091669-gcarg33rd6hbbojhcr9hc52rarcsgjho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4gf5QCvmcR8eUONXOTf5FH9zA_ryK0uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522675091669-gcarg33rd6hbbojhcr9hc52rarcsgjho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522675091669-au2b1v6c43e9cje32cp3rub4eteh017b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cac"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522675091669:android:94d456fa5207d123508a5c",
+        "android_client_info": {
+          "package_name": "com.mycompany.caca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522675091669-gcarg33rd6hbbojhcr9hc52rarcsgjho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4gf5QCvmcR8eUONXOTf5FH9zA_ryK0uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522675091669-gcarg33rd6hbbojhcr9hc52rarcsgjho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522675091669-au2b1v6c43e9cje32cp3rub4eteh017b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cac"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
