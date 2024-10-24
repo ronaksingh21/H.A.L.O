@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Face Recognition Log</title>
+    <meta http-equiv="refresh" content="5"> <!-- Auto-refresh the page every 5 seconds -->
+</head>
+<body>
+    <h1>Face Recognition Log</h1>
+    <ul id="log-list">
+        {% for log in logs %}
+            <li>{{ log[0] }} is in front of the camera - Detected at: {{ log[1] }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
