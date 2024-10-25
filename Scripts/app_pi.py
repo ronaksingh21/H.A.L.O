@@ -17,7 +17,7 @@ sfr.load_encoding_images("images/")
 cap = cv2.VideoCapture(0)
 
 # Initialize Firebase
-cred = credentials.Certificate('/home/ronak/Downloads/caca-c9b2tk-firebase-adminsdk-lijxn-038eb4cbc6.json')  # Path to Firebase credentials file
+cred = credentials.Certificate('')  # Path to Firebase credentials file
 firebase_admin.initialize_app(cred)
 
 # Initialize Firestore
