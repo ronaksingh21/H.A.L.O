@@ -5,7 +5,7 @@ import os
 import time
 
 # Initialize Firebase Admin
-cred = credentials.Certificate('/home/ronak/Downloads/caca-c9b2tk-firebase-adminsdk-lijxn-038eb4cbc6.json')
+cred = credentials.Certificate('')
 firebase_admin.initialize_app(cred, {
     'storageBucket': 'caca-c9b2tk.appspot.com'
 })
